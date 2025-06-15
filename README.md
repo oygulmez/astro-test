@@ -152,7 +152,7 @@ Bu proje MIT lisansı altında lisanslanmıştır.
 
 ## 📞 İletişim
 
-- **Geliştirici**: Ömer Yalçın Gülmez
+- **Geliştirici**: Osman Yalçın Gülmez
 - **GitHub**: [@oygulmez](https://github.com/oygulmez)
 - **Repository**: [astro-test](https://github.com/oygulmez/astro-test)
 
